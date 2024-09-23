@@ -4,7 +4,7 @@
     "config:recommended",
     "automerge": true
   ],
-  "automerge": true
+  "automerge": true,
   "packageRules": [
         {
           "updateTypes": ["patch", "pin", "digest"],
