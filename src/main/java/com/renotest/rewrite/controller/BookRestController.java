@@ -1,8 +1,8 @@
-package com.choudhury.controller;
+package com.renotest.rewrite.controller;
 
-import com.choudhury.domain.Book;
-import com.choudhury.domain.ObjectWithId;
-import com.choudhury.service.BookService;
+import com.renotest.rewrite.domain.Book;
+import com.renotest.rewrite.domain.ObjectWithId;
+import com.renotest.rewrite.service.BookService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
