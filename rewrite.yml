@@ -1,0 +1,9 @@
+---
+type: specs.openrewrite.org/v1beta/recipe
+name: dev.rewritetest.sampleRecipe
+displayName: package change recipe
+recipeList:
+  - org.openrewrite.java.ChangePackage:
+      oldPackageName: com.renotest
+      newPackageName: com.renotest.rewrite
+      recursive: null
