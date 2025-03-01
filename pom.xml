@@ -10,7 +10,7 @@
 
     <properties>
         <spring.framework.version>6.2.3</spring.framework.version>
-        <jackson.version>2.18.2</jackson.version>
+        <jackson.version>2.18.3</jackson.version>
     </properties>
 
     <repositories>
