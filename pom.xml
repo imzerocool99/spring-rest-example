@@ -9,7 +9,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <spring.framework.version>6.2.10</spring.framework.version>
+        <spring.framework.version>6.2.11</spring.framework.version>
         <jackson.version>2.20.0</jackson.version>
     </properties>
 
